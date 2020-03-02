@@ -1,5 +1,9 @@
 # README
 
+# Coveralls
+
+[![Coverage Status](https://coveralls.io/repos/github/CraftAcademy/slowfood-client-team-3/badge.svg?branch=development)](https://coveralls.io/github/CraftAcademy/slowfood-client-team-3?branch=development)
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
