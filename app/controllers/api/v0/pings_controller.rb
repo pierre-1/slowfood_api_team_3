@@ -1,5 +1,6 @@
 class Api::V0::PingsController < ApplicationController
   def index
-    render json: { message: 'Pong' }
+    product = Product.all
+    render json: product
   end
 end
