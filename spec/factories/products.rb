@@ -3,6 +3,5 @@ FactoryBot.define do
     name { "Noodles" }
     description { "Italian linguine" }
     price { 1.5 }
-    allergens { "gluten" }
   end
 end
