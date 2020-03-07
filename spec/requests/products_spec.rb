@@ -1,4 +1,4 @@
-RSpec.describe Api::ProductController, type: :request do
+RSpec.describe Api::ProductsController, type: :request do
   let!(:products) { 3.times { create(:product) } }
 
   describe "GET /product" do
